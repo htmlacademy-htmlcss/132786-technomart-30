@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Anatoly](https://up.htmlacademy.ru/htmlcss/30/user/132786).
-* Наставник: `Неизвестно`.
+* Студент: [Anatoly Udavikhin](https://up.htmlacademy.ru/htmlcss/30/user/132786).
+* Наставник: [Anton Leonov](https://htmlacademy.ru/profile/id101137).
 
 ---
 
